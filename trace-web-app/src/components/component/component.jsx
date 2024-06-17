@@ -22,7 +22,7 @@ import { CardTitle, CardHeader, CardContent, Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { TableHead, TableRow, TableHeader, TableBody, Table } from "@/components/ui/table"
 
-export function component() {
+export function Component() {
   return (
     (<div
       className="w-full min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
